@@ -1,5 +1,3 @@
-/* Finish adding event handlers to show the form */
-
 import { useState } from "react";
 
 const AddProductForm = ({ onAddProduct }) => {
